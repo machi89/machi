@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1, 1 CANAL 26 
+https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
+
+#EXTINF:-1, 2 A24
+https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+
+#EXTINF:-1, 3 TN
+https://r8---sn-uxax4vopj55gb-hq1e.googlevideo.com/videoplayback?expire=1622028133&ei=BdutYLqECMej1sQP5q23iAM&ip=190.177.162.246&id=wHn1_QVoXGM.3&itag=133&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxax4vopj55gb-hq1e%2Csn-x1x7zne7&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=18&rmhost=r4---sn-uxax4vopj55gb-hq1e.googlevideo.com%2C&shardbypass=yes&smhost=r4---sn-uxax4vopj55gb-hq1l.googlevideo.com%2Cr4---sn-x1x7zn7s.googlevideo.com&initcwndbps=395000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=KjuQeePEjVlEK8A0zwnUgFUF&gir=yes&mt=1622006189&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=bLrDD0eW6QwYOw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgctudDKJGgRkXXlH_KYGaxmy97LfR2xpizWnrzeN5NYYCIQCONhRHWHNxMzGS7gtJ49lO96bVhdsS6Rz7zw9wYq4Gxg%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOQBCy7d4j44kjUJtQcNEFmKv6udiXiGGg4QQaFoTZj5AiAguNlgHUDIJ2lXnqPRKh5-4YKFco90sqdRRIwu1NX-6Q%3D%3D&alr=yes&cpn=hVuXNAvAcTLXTnoQ&cver=1.20210524.1.1&headm=3&rn=1&rbuf=0
+
+#EXTINF:-1, 4 C5N
+https://r4---sn-uxax4vopj55gb-hq1e.googlevideo.com/videoplayback?expire=1622028275&ei=k9utYLWoC4qQobIPiNqBiAQ&ip=190.177.162.246&id=kt43n3r1jJo.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Fw&mm=44%2C29&mn=sn-uxax4vopj55gb-hq1e%2Csn-x1x7zn7e&ms=lva%2Crdu&mv=m&mvi=4&pl=18&hcs=%2Csd&smhost=%2Cr4---sn-x1x7dn7s.googlevideo.com&initcwndbps=415000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=-jQcN5zeyqNWWsHC9TF-q3kF&gir=yes&mt=1622006430&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Utxoqp7mKgTTOw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAMjyvPxwomiahpwCBTdTcCq8jBGwiivW6OaU5iRqTeWhAiAYNzH8uKANVGyohhN1aLcjck1D4C7BYOmh-3EJBeswcA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Chcs%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgJEYsP0gepRzHd5SLo4FjiZgMbkp8qvRX9O2gkWzi0NECIDyRkqavybYcbt-7aN_CYObFNUD-wjXy4Ygfn3ntaRcH&alr=yes&cpn=hsJZS86ph1LPFbNg&cver=1.20210524.1.1&sq=3350914&rn=11&rbuf=9726
+
+#EXTINF:-1, 5 IP
+https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=364992.m3u8
+
+#EXTINF:-1, 6 AMERICA
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_240p.m3u8
+
+#EXTINF:-1, 7 TV PUBLICA
+https://g5.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+
+#EXTINF:-1, 8 TELEFE
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_3_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1622093823~acl=%2fi%2fappmitelefe_1%40326430%2f*~data=hdntl~hmac=7df359ea93a0167539ff1d1e7193a221e72768b6905d17ecee9140c34b360d97
+
+#EXTINF:-1, 9 EL NUEVE
+https://ar-elnueve-elnueve-live.ned.media:443/live-360.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMDkzOTM2LCJzZXNzaW9uIjoiMTkwLjE3Ny4xNjIuMjQ2Iiwid2hpdGVsaXN0IjpbIjE5MC4xNzcuMTYyLjI0NiJdfSwic2lnbmF0dXJlIjoiMWE1ZDg2YzVlMzdlNzQwYTg4MDcyOWEzYWM1MDU2MGI2MGIxZWQ0ZSJ9
+
+#EXTINF:-1, 10 CANAL 10
+https://vcp.myplaytv.com/canal10cba/canal10cba.smil/chunklist_w1482551329_b1000000_slen.m3u8
+
+#EXTINF:-1, 11 LN
+https://r8---sn-uxax4vopj55gb-hq1l.googlevideo.com/videoplayback?expire=1622029614&ei=zuCtYOeAGpKbobIPsMiUiA8&ip=190.177.162.246&id=ns8-5XKA0Ww.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=gU&mm=44%2C29&mn=sn-uxax4vopj55gb-hq1l%2Csn-x1x7dn7s&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=18&hcs=%2Csd&initcwndbps=358750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=LhKyDHX9FFNiRbgt1hpIZ5wF&gir=yes&mt=1622007870&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=FLYTGe_kTjzs4A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAOpKYUSo2AdTH1DqxnCS8l4n0bZ-O7Rxrmd7WDB7k7IEAiEA4FGFCs2G4k47oViUCs6vU_3J9KsZAP_BpkgLu-S3tUU%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Chcs%2Cinitcwndbps&lsig=AG3C_xAwRQIgZVrsmkLKeIiBgmn-spQ3CKRq6yKT-kbMHXlBRk2XcXkCIQCTar6VjMwAJHgEZ21oblWYWSzjBkGKSMUR0Z_anQa7Ig%3D%3D&alr=yes&cpn=371Lv4KNcg5YJ0Tf&cver=1.20210524.1.1&sq=3836763&rn=52&rbuf=9957
+
+#EXTINF:-1, 12 EL TRES
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w2030381849_b1013840.m3u8
+
+#EXTINF:-1, 13 T
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
+
+#EXTINF:-1, 14 CRONICA
+https://g2.proy-slo.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p/index.m3u8
+
+#EXTINF:-1, 15 NET
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8?nimblesessionid=58744768
+
+#EXTINF:-1, 16 TELEMAX
+https://live-edge01.telecentro.net.ar:443/live/tlx.smil/chunklist_w395708623_b864000_sleng.m3u8
+
+#EXTINF:-1, 17 ARGENTINISIMA
+http://186.0.233.76:1935/Argentinisima/argentinisima.smil/.m3u8
+
+#EXTINF:-1, 18 MULTIVISION
+https://panel.dattalive.com/8250/8250/chunklist_w1463692275.m3u8
+
+#EXTINF:-1, 19 ENCUENTRO 
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1,  20 CHUNKS
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8?nimblesessionid=24075760
